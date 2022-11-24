@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0951184-507a-4c9d-8b45-16e2d383917c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KanginaLF_tasks/KanginaLF_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KanginaLF_tasks/src/main/java/task_1/WorkingWithArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KanginaLF_tasks/src/main/java/task_2/ScanAndWriteToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KanginaLF_tasks/src/main/java/task_3/WorkWithStringsStartsRusBigA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KanginaLF_tasks/src/main/java/task_4/WorkWithStringsStartsAa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KanginaLF_tasks/src/main/java/task_5/AbstractFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/GameChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/Registrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/GameChooserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/GuessNumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/RegistratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/ThinkOfNumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/src/main/java/AddListToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/src/main/java/HashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/src/main/java/LinkedHashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/src/main/java/MakeStringListFromMapAndInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/AbstractUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/AnonymClassApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/AnonymClassWithMakeableApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/AnotherFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/CatToDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/ClassWithConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/ClassWithFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/ClassWithPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/ClassWithSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/Makeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function/src/main/java/SomeFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helpForADiabetic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helpForADiabetic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/BufferedReaderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/BufferedWriterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/DataIOStreamAPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileInputStreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileInputStreamBufferApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileOutputStreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileOutputStreamBufferApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileReaderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileWriterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileWriterBufferApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/FileWriterTextApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/ObjectInputStreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/ObjectOutputStreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/PrintWriterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/ScannerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/Zadanie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/Zadanie2PostrochnoeCopyrovanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/main/java/Zadanie3Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/AbstractStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/JavaSyntax_4_3_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/Restable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/Studyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telemedicine/src/main/java/api/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telemedicine/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telemedicine/src/main/java/classes/Registrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/threads.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Fx3nbMcO3HJsPFim09d3sVqizw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/temp/My_project/Lesson5.java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Application" />
+      <module name="casino" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0951184-507a-4c9d-8b45-16e2d383917c" name="Default Changelist" comment="" />
+      <created>1665420075280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665420075280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
